@@ -179,4 +179,3 @@ class screen:
                     evnt.println(MR.getDesc(),screen)# pylint: disable=maybe-no-member
 
 
-#main()

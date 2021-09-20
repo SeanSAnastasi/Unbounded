@@ -343,6 +343,3 @@ class screen:
                     evnt.println(MR.description,screen)# pylint: disable=maybe-no-member
                 else:
                     evnt.println(("'"+str(a)+"' is not a known command....."),screen)
-
-
-main()
